@@ -7,7 +7,9 @@
             "email": "leo@scalingo.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "~8.4"
+    },
     "extra": {
       "paas": {
         "nginx-includes": ["support/conf/nginx.conf"]
